@@ -30,8 +30,25 @@ font-size: smaller !important;
 font-weight: 900 !important;
 
 }
+.imges2{
+    height:100vh;
+    background-color: #0065c3;
 
-
+}
+.thumbnail1{
+   height:35vh;
+   margin-left: 50px;
+margin-right: 50px;
+   margin-bottom: 10px;
+   margin-top:15px;
+}
+.thumbnail2{
+    height:35vh;
+    
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
 
 .footer{
     height: 40vh;
@@ -68,6 +85,13 @@ margin-left: 40px;
 
 
 }
-
-
-
+.sub1{
+    display:flex;
+}
+.sub{
+list-style: none;
+    margin-right: 20px;
+    margin-left: 10px;
+    font-size:x-large;
+    margin-top: -20px;
+}
