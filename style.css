@@ -1,0 +1,73 @@
+*{
+    font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.nav-color{
+     background-color:#0065c3 !important;  
+margin-top: -10px;
+margin-bottom: -10px;
+    }
+
+.navbar-item{
+    color:#fff !important;
+    font-weight:900 !important;
+    padding:20px !important;
+    font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif  ;
+
+}
+.logo{
+    height:15vh;
+}
+
+.btn-1{
+    background-color:#0065c3 !important;  
+color:#fff !important;
+border: 2px solid #fff !important;
+height:35px;
+width:200px;
+border-radius: 20px !important;
+font-size: smaller !important;
+font-weight: 900 !important;
+
+}
+
+
+
+.footer{
+    height: 40vh;
+    background-color: #0065c3;
+}
+.logofooter{
+    height: 110px;
+    margin-top:-55px;
+    margin-left: -90px;
+}
+.footeritems{
+    display: inline-block;
+    font-family: Sofia Pro #fff, Helvetica Neue, Helvetica, Arial, sans-serif;
+    list-style: none;
+    color:#fff;
+    font-weight: 700;
+   margin-top: 100px;
+   margin-left: 60px;
+
+}
+
+
+.btn-2{
+    background-color:#0065c3 !important;  
+color:#fff !important;
+border: 2px solid #fff !important;
+height:35px;
+width:250px;
+border-radius: 20px !important;
+font-size: smaller !important;
+font-weight: 900 !important;
+margin-top:-100px;
+margin-left: 40px;
+
+
+}
+
+
+
